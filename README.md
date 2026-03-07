@@ -2,8 +2,7 @@
 
 Kaksha is a **modern responsive E-Learning platform frontend** built using **React.js and Vite**. The project focuses on creating an engaging learning interface with smooth animations, dynamic navigation, and optimized performance.
 
-🔗 **Live Demo:** (https://musical-salamander-56228b.netlify.app/)
-](https://e-learning-website-frontend.vercel.app/)
+🔗 **Live Demo:** (https://e-learning-website-frontend.vercel.app/)
 ---
 
 ## 🚀 Features
